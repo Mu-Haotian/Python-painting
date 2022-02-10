@@ -1,2 +1,2 @@
 # Python-painting
-All kinds of Python paintings
+利用python的Trun库来绘制各种图形
